@@ -6,6 +6,9 @@ it could be useful to find out those features that are controllable.
 To name a few, Number of projects, Last promotion, Satisfaction level are factors that could be managed.
 If the information about how the factors are correlated is known, it is possible to reach a better understanding on why employees leave a company.
 
+
+<img src="https://user-images.githubusercontent.com/47465548/73313286-d5083080-41f8-11ea-9013-dd7fe17801b6.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/47465548/73313306-de919880-41f8-11ea-9611-87bd8ce77df3.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/47465548/73313320-e6e9d380-41f8-11ea-842a-59009fbae0ed.png" width="90%"></img> 
+
 # Outcomes #
 
 :+1: To summarize our analysis on why employees leave the company, out of all the contributing factors the strongest predictor is Employee satisfaction. <BR>
